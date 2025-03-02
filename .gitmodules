@@ -1,3 +1,6 @@
 [submodule "projeto-login-react"]
 	path = projeto-login-react
 	url = https://github.com/CamillyLarissa/web-dev-projects.git
+[submodule "login-react"]
+	path = login-react
+	url = https://github.com/CamillyLarissa/projeto-login-react.git
